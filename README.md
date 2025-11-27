@@ -35,7 +35,7 @@ Input Image → Grayscale → Blur → Canny Edge Detection
 
 ### Input Image 2: 
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/LicencePlate-Recognition/blob/dbfe004db5ecd68a4ab87052fc89156acd95fb4e/licenseplate_recognition/car.jpg)
 
 ### Output:
 
