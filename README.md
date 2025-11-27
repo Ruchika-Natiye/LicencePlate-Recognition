@@ -39,7 +39,7 @@ Input Image → Grayscale → Blur → Canny Edge Detection
 
 ### Output:
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/LicencePlate-Recognition/blob/40cca3b96e6bde4ca25e69e9c750b6ffb6e7ba36/out2.png)
 
 
 ## 🎯 Future Improvements
