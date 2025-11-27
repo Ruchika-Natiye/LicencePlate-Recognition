@@ -25,6 +25,23 @@ A Python-based system that detects a vehicle’s license plate from an image and
 Input Image → Grayscale → Blur → Canny Edge Detection 
 → Contour Detection → Plate Extraction → Thresholding → OCR → Output Text
 
+### Input Image 1: 
+
+![img]()
+
+### Output:
+
+![img]()
+
+### Input Image 2: 
+
+![img]()
+
+### Output:
+
+![img]()
+
+
 ## 🎯 Future Improvements
 * 🔥 Apply deep learning (YOLO / SSD) to detect plates more accurately
 
